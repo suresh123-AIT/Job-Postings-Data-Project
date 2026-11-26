@@ -6,3 +6,4 @@ Test.ipynb
 *.zip
 .ipynb_checkpoints/
 *.parquet
+*.db
