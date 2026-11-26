@@ -1,9 +1,0 @@
-"Test file.py"
-Test.ipynb
-*.csv
-*.xlsx
-*.json
-*.zip
-.ipynb_checkpoints/
-*.parquet
-*.db
